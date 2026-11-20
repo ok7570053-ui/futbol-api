@@ -51,3 +51,5 @@ with open("maclar.json", "w", encoding="utf-8") as f:
     json.dump(maclar, f, ensure_ascii=False, indent=2)
 
 print(f"Kaydedilen mac sayisi: {len(maclar)}")
+print("API errors:", veri.get("errors"))
+print("API results:", veri.get("results"))
