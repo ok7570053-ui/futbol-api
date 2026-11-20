@@ -1,25 +1,33 @@
 import os
 import json
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 API_KEY = os.environ.get("FOOTBALL_API_KEY")
 if not API_KEY:
     raise RuntimeError("FOOTBALL_API_KEY bulunamadi")
 
-bugun = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-url = f"https://v3.football.api-sports.io/fixtures?date={bugun}"
+# Turkiye saati (UTC+3)
+tr_tz = timezone(timedelta(hours=3))
+bugun = datetime.now(tr_tz).strftime("%Y-%m-%d")
 
+url = f"https://v3.football.api-sports.io/fixtures?date={bugun}"
 req = urllib.request.Request(url)
 req.add_header("x-apisports-key", API_KEY)
 
 with urllib.request.urlopen(req, timeout=30) as resp:
     veri = json.loads(resp.read().decode("utf-8"))
 
+errors = veri.get("errors")
+results = veri.get("results", 0)
+response_list = veri.get("response", [])
+
+print(f"Tarih (TR): {bugun} | API results: {results} | API errors: {errors}")
+
 maclar = []
 lig_sayaclari = {}
 
-for item in veri.get("response", []):
+for item in response_list:
     lig_adi = item.get("league", {}).get("name", "Bilinmeyen Lig")
     if lig_sayaclari.get(lig_adi, 0) >= 3:
         continue
@@ -47,9 +55,24 @@ for item in veri.get("response", []):
         "depGol": goals.get("away")
     })
 
-with open("maclar.json", "w", encoding="utf-8") as f:
-    json.dump(maclar, f, ensure_ascii=False, indent=2)
+mevcut_maclar = []
+if os.path.exists("maclar.json"):
+    try:
+        with open("maclar.json", "r", encoding="utf-8") as f:
+            eski = json.load(f)
+            if isinstance(eski, list):
+                mevcut_maclar = eski
+    except Exception:
+        mevcut_maclar = []
 
-print(f"Kaydedilen mac sayisi: {len(maclar)}")
-print("API errors:", veri.get("errors"))
-print("API results:", veri.get("results"))
+if len(maclar) > 0:
+    with open("maclar.json", "w", encoding="utf-8") as f:
+        json.dump(maclar, f, ensure_ascii=False, indent=2)
+    print(f"Kaydedilen yeni mac sayisi: {len(maclar)}")
+else:
+    if len(mevcut_maclar) > 0:
+        print(f"Yeni mac 0 geldi; mevcut {len(mevcut_maclar)} maclik maclar.json korundu.")
+    else:
+        with open("maclar.json", "w", encoding="utf-8") as f:
+            json.dump([], f, ensure_ascii=False, indent=2)
+        print("Yeni mac 0 geldi ve onceki kayit yoktu; bos liste yazildi.")
