@@ -285,7 +285,7 @@
     "saat": "10:00",
     "durum": "2H",
     "evGol": 0,
-    "depGol": 0
+    "depGol": 1
   },
   {
     "id": 1556144,
@@ -297,7 +297,7 @@
     "saat": "10:00",
     "durum": "2H",
     "evGol": 0,
-    "depGol": 0
+    "depGol": 1
   },
   {
     "id": 1556150,
@@ -344,8 +344,8 @@
     "tarih": "2026-11-20",
     "saat": "10:00",
     "durum": "2H",
-    "evGol": 3,
-    "depGol": 0
+    "evGol": 4,
+    "depGol": 1
   },
   {
     "id": 1633935,
@@ -379,7 +379,7 @@
     "dep": "Zira",
     "tarih": "2026-11-20",
     "saat": "10:30",
-    "durum": "HT",
+    "durum": "2H",
     "evGol": 0,
     "depGol": 1
   },
@@ -487,9 +487,9 @@
     "dep": "Stal Stalowa Wola",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1581977,
@@ -499,9 +499,9 @@
     "dep": "Ahrobiznes Volochysk",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1603483,
@@ -511,9 +511,9 @@
     "dep": "Balestier Khalsa",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1604166,
@@ -523,9 +523,9 @@
     "dep": "Górnik Polkowice",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1642195,
@@ -535,9 +535,9 @@
     "dep": "SC Delhi",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1638058,
@@ -547,9 +547,9 @@
     "dep": "SHANGHAI SIPG",
     "tarih": "2026-11-20",
     "saat": "11:35",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1634418,
