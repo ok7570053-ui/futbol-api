@@ -199,9 +199,9 @@
     "dep": "Merw",
     "tarih": "2026-11-20",
     "saat": "09:00",
-    "durum": "TBD",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 0
   },
   {
     "id": 1644142,
@@ -211,9 +211,9 @@
     "dep": "Ahal",
     "tarih": "2026-11-20",
     "saat": "09:00",
-    "durum": "TBD",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 3
   },
   {
     "id": 1644143,
@@ -223,9 +223,9 @@
     "dep": "Altyn Asyr",
     "tarih": "2026-11-20",
     "saat": "09:00",
-    "durum": "TBD",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 1
   },
   {
     "id": 1646631,
@@ -247,9 +247,9 @@
     "dep": "Betlemi",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 8,
+    "depGol": 0
   },
   {
     "id": 1507492,
@@ -259,9 +259,9 @@
     "dep": "Irao",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 3,
-    "depGol": 1
+    "depGol": 3
   },
   {
     "id": 1507496,
@@ -271,9 +271,9 @@
     "dep": "Merani Tbilisi",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 4,
+    "depGol": 1
   },
   {
     "id": 1556143,
@@ -283,8 +283,8 @@
     "dep": "Shimizu S-pulse",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
-    "evGol": 0,
+    "durum": "FT",
+    "evGol": 1,
     "depGol": 1
   },
   {
@@ -295,7 +295,7 @@
     "dep": "JEF United Chiba",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 0,
     "depGol": 1
   },
@@ -307,9 +307,9 @@
     "dep": "Mito Hollyhock",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 1,
-    "depGol": 1
+    "depGol": 2
   },
   {
     "id": 1593082,
@@ -319,8 +319,8 @@
     "dep": "SC Poltava 2",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
-    "evGol": 1,
+    "durum": "FT",
+    "evGol": 4,
     "depGol": 2
   },
   {
@@ -331,7 +331,7 @@
     "dep": "Cəbrayıl",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 0,
     "depGol": 0
   },
@@ -343,7 +343,7 @@
     "dep": "Zaqatala",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 4,
     "depGol": 1
   },
@@ -355,7 +355,7 @@
     "dep": "Hoang Anh Gia Lai",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
+    "durum": "FT",
     "evGol": 2,
     "depGol": 1
   },
@@ -367,8 +367,8 @@
     "dep": "Thai Nguyen",
     "tarih": "2026-11-20",
     "saat": "10:00",
-    "durum": "2H",
-    "evGol": 0,
+    "durum": "FT",
+    "evGol": 1,
     "depGol": 0
   },
   {
@@ -379,9 +379,9 @@
     "dep": "Zira",
     "tarih": "2026-11-20",
     "saat": "10:30",
-    "durum": "2H",
-    "evGol": 0,
-    "depGol": 1
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 2
   },
   {
     "id": 1605121,
@@ -391,9 +391,9 @@
     "dep": "Sardarapat 2",
     "tarih": "2026-11-20",
     "saat": "10:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 2
   },
   {
     "id": 1605122,
@@ -403,9 +403,9 @@
     "dep": "Bentonit Ijevan",
     "tarih": "2026-11-20",
     "saat": "10:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 2
   },
   {
     "id": 1576950,
@@ -415,9 +415,9 @@
     "dep": "Spartanii Selemet",
     "tarih": "2026-11-20",
     "saat": "11:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 0
   },
   {
     "id": 1581564,
@@ -427,9 +427,9 @@
     "dep": "Ararat-Armenia",
     "tarih": "2026-11-20",
     "saat": "11:00",
-    "durum": "1H",
-    "evGol": 0,
-    "depGol": 0
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1629123,
@@ -439,9 +439,9 @@
     "dep": "Murang'a SEAL",
     "tarih": "2026-11-20",
     "saat": "11:00",
-    "durum": "1H",
+    "durum": "FT",
     "evGol": 0,
-    "depGol": 1
+    "depGol": 2
   },
   {
     "id": 1629125,
@@ -451,9 +451,9 @@
     "dep": "Homeboyz",
     "tarih": "2026-11-20",
     "saat": "11:00",
-    "durum": "1H",
-    "evGol": 0,
-    "depGol": 0
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1633694,
@@ -468,18 +468,6 @@
     "depGol": null
   },
   {
-    "id": 1628043,
-    "lig": "Iraqi League",
-    "ulke": "Iraq",
-    "ev": "Al Zawra'a",
-    "dep": "Al Talaba",
-    "tarih": "2026-11-20",
-    "saat": "11:15",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
-  },
-  {
     "id": 1561738,
     "lig": "II Liga - East",
     "ulke": "Poland",
@@ -487,9 +475,9 @@
     "dep": "Stal Stalowa Wola",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "1H",
-    "evGol": 0,
-    "depGol": 0
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1581977,
@@ -499,7 +487,7 @@
     "dep": "Ahrobiznes Volochysk",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "1H",
+    "durum": "FT",
     "evGol": 0,
     "depGol": 0
   },
@@ -511,9 +499,9 @@
     "dep": "Balestier Khalsa",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "1H",
-    "evGol": 0,
-    "depGol": 0
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 2
   },
   {
     "id": 1604166,
@@ -523,9 +511,9 @@
     "dep": "Górnik Polkowice",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "1H",
+    "durum": "FT",
     "evGol": 0,
-    "depGol": 0
+    "depGol": 2
   },
   {
     "id": 1642195,
@@ -535,9 +523,9 @@
     "dep": "SC Delhi",
     "tarih": "2026-11-20",
     "saat": "11:30",
-    "durum": "1H",
-    "evGol": 0,
-    "depGol": 0
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 2
   },
   {
     "id": 1638058,
@@ -547,9 +535,9 @@
     "dep": "SHANGHAI SIPG",
     "tarih": "2026-11-20",
     "saat": "11:35",
-    "durum": "1H",
+    "durum": "FT",
     "evGol": 0,
-    "depGol": 0
+    "depGol": 2
   },
   {
     "id": 1634418,
@@ -559,9 +547,9 @@
     "dep": "Afif",
     "tarih": "2026-11-20",
     "saat": "11:50",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 0
   },
   {
     "id": 1634419,
@@ -571,9 +559,9 @@
     "dep": "Al Safa",
     "tarih": "2026-11-20",
     "saat": "11:50",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1634420,
@@ -583,9 +571,9 @@
     "dep": "Al Baten",
     "tarih": "2026-11-20",
     "saat": "11:50",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1516190,
@@ -595,9 +583,9 @@
     "dep": "Qizilqum",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 1
   },
   {
     "id": 1516192,
@@ -607,9 +595,9 @@
     "dep": "Pakhtakor",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 1
   },
   {
     "id": 1551493,
@@ -619,9 +607,9 @@
     "dep": "Bashkimi Kumanovo",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 1
   },
   {
     "id": 1559425,
@@ -631,9 +619,9 @@
     "dep": "Zeta",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 1
   },
   {
     "id": 1593966,
@@ -643,9 +631,9 @@
     "dep": "Eger",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 1
   },
   {
     "id": 1602736,
@@ -655,9 +643,9 @@
     "dep": "Chanthaburi",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 0
   },
   {
     "id": 1607341,
@@ -667,9 +655,9 @@
     "dep": "North District",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 1
   },
   {
     "id": 1609969,
@@ -895,9 +883,9 @@
     "dep": "Barito Putera",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 1
   },
   {
     "id": 1637713,
@@ -907,9 +895,9 @@
     "dep": "Persis Solo",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1649587,
@@ -919,9 +907,9 @@
     "dep": "Chadormalu SC",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1649588,
@@ -931,9 +919,9 @@
     "dep": "Shams Azar Qazvin",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 0
   },
   {
     "id": 1650828,
@@ -943,9 +931,9 @@
     "dep": "Prishtina e Re",
     "tarih": "2026-11-20",
     "saat": "12:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 1
   },
   {
     "id": 1633936,
@@ -955,9 +943,9 @@
     "dep": "Song Lam Nghe An",
     "tarih": "2026-11-20",
     "saat": "12:15",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1590223,
@@ -967,9 +955,9 @@
     "dep": "Dinamo Zagreb U21",
     "tarih": "2026-11-20",
     "saat": "12:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1594909,
@@ -979,9 +967,9 @@
     "dep": "Dayrout",
     "tarih": "2026-11-20",
     "saat": "12:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 0
   },
   {
     "id": 1594910,
@@ -991,7 +979,7 @@
     "dep": "AL Nasr SC",
     "tarih": "2026-11-20",
     "saat": "12:30",
-    "durum": "NS",
+    "durum": "PST",
     "evGol": null,
     "depGol": null
   },
@@ -1003,9 +991,9 @@
     "dep": "Gloria Bistriţa",
     "tarih": "2026-11-20",
     "saat": "12:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 5,
+    "depGol": 1
   },
   {
     "id": 1643064,
@@ -1015,9 +1003,9 @@
     "dep": "Sharjah FC",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 3
   },
   {
     "id": 1643131,
@@ -1027,9 +1015,9 @@
     "dep": "Al Ain U23",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 5
   },
   {
     "id": 1643132,
@@ -1039,9 +1027,9 @@
     "dep": "Al Wasl U23",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1644284,
@@ -1051,9 +1039,9 @@
     "dep": "Dubai City",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 2,
+    "depGol": 1
   },
   {
     "id": 1644285,
@@ -1063,9 +1051,9 @@
     "dep": "Al Jazira Al Hamra",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 4,
+    "depGol": 1
   },
   {
     "id": 1644286,
@@ -1075,9 +1063,9 @@
     "dep": "Al Thaid",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 1
   },
   {
     "id": 1649589,
@@ -1087,9 +1075,9 @@
     "dep": "Paykan",
     "tarih": "2026-11-20",
     "saat": "12:45",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 0
   },
   {
     "id": 1519198,
@@ -1099,9 +1087,9 @@
     "dep": "Nizhny Novgorod U19",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1519199,
@@ -1111,9 +1099,9 @@
     "dep": "Rubin Kazan U20",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1519200,
@@ -1123,9 +1111,9 @@
     "dep": "Rodina Moscow U19",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1546142,
@@ -1135,9 +1123,9 @@
     "dep": "Vietnam U17",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 2
   },
   {
     "id": 1546146,
@@ -1147,9 +1135,9 @@
     "dep": "Tajikistan U17",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 5
   },
   {
     "id": 1597963,
@@ -1159,9 +1147,9 @@
     "dep": "Qatar SC",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1597965,
@@ -1171,9 +1159,9 @@
     "dep": "Lusail City",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 3,
+    "depGol": 2
   },
   {
     "id": 1600820,
@@ -1183,9 +1171,9 @@
     "dep": "Young Africans",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 2
   },
   {
     "id": 1619626,
@@ -1207,9 +1195,9 @@
     "dep": "Al Shorta",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1632534,
@@ -1219,9 +1207,9 @@
     "dep": "Marines",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1632535,
@@ -1231,9 +1219,9 @@
     "dep": "Bugesera",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 0,
+    "depGol": 3
   },
   {
     "id": 1632536,
@@ -1243,9 +1231,9 @@
     "dep": "Kiyovu Sports",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 4
   },
   {
     "id": 1646475,
@@ -1267,9 +1255,9 @@
     "dep": "Gokulam",
     "tarih": "2026-11-20",
     "saat": "13:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "FT",
+    "evGol": 1,
+    "depGol": 4
   },
   {
     "id": 1546153,
@@ -1279,9 +1267,9 @@
     "dep": "New Zealand U17",
     "tarih": "2026-11-20",
     "saat": "13:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 3,
+    "depGol": 0
   },
   {
     "id": 1607469,
@@ -1291,9 +1279,9 @@
     "dep": "Progrès Sakiet Eddaïer",
     "tarih": "2026-11-20",
     "saat": "13:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1607470,
@@ -1303,9 +1291,9 @@
     "dep": "ES Metlaoui",
     "tarih": "2026-11-20",
     "saat": "13:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 0,
+    "depGol": 2
   },
   {
     "id": 1607472,
@@ -1315,9 +1303,9 @@
     "dep": "AS Marsa",
     "tarih": "2026-11-20",
     "saat": "13:30",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1627776,
@@ -1339,9 +1327,9 @@
     "dep": "Dila",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 1,
+    "depGol": 2
   },
   {
     "id": 1509222,
@@ -1351,9 +1339,9 @@
     "dep": "Meshakhte",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1598744,
@@ -1375,9 +1363,9 @@
     "dep": "Karbala",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 2,
+    "depGol": 2
   },
   {
     "id": 1642196,
@@ -1387,9 +1375,9 @@
     "dep": "Mumbai City",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1650138,
@@ -1399,9 +1387,9 @@
     "dep": "RC Kouba",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1650139,
@@ -1411,9 +1399,9 @@
     "dep": "JSM Skikda",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1650140,
@@ -1423,9 +1411,9 @@
     "dep": "Taghit",
     "tarih": "2026-11-20",
     "saat": "14:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "2H",
+    "evGol": 1,
+    "depGol": 1
   },
   {
     "id": 1650522,
@@ -1435,9 +1423,9 @@
     "dep": "Khaitan",
     "tarih": "2026-11-20",
     "saat": "14:20",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 2,
+    "depGol": 1
   },
   {
     "id": 1627329,
@@ -1459,9 +1447,9 @@
     "dep": "Egnatia Rrogozhinë",
     "tarih": "2026-11-20",
     "saat": "15:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 1,
+    "depGol": 0
   },
   {
     "id": 1592923,
@@ -1471,9 +1459,9 @@
     "dep": "Atl. San Luis U21",
     "tarih": "2026-11-20",
     "saat": "15:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1601938,
@@ -1483,9 +1471,9 @@
     "dep": "Sabah FA",
     "tarih": "2026-11-20",
     "saat": "15:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1630973,
@@ -1519,9 +1507,9 @@
     "dep": "Ceramica Cleopatra",
     "tarih": "2026-11-20",
     "saat": "15:00",
-    "durum": "NS",
-    "evGol": null,
-    "depGol": null
+    "durum": "1H",
+    "evGol": 0,
+    "depGol": 0
   },
   {
     "id": 1643065,
@@ -1577,6 +1565,18 @@
     "ulke": "Bosnia",
     "ev": "Potkozarje",
     "dep": "Famos Vojkovići",
+    "tarih": "2026-11-20",
+    "saat": "15:30",
+    "durum": "NS",
+    "evGol": null,
+    "depGol": null
+  },
+  {
+    "id": 1628043,
+    "lig": "Iraqi League",
+    "ulke": "Iraq",
+    "ev": "Al Zawra'a",
+    "dep": "Al Talaba",
     "tarih": "2026-11-20",
     "saat": "15:30",
     "durum": "NS",
