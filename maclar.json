@@ -97,13 +97,13 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-21T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Como 1907",
     "deplasman": "Cagliari Calcio",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "2 - 0",
     "skor": {
-      "ev": 1,
+      "ev": 2,
       "deplasman": 0
     }
   },
@@ -115,13 +115,13 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-21T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "SS Lazio",
     "deplasman": "US Lecce",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "3 - 0",
     "skor": {
-      "ev": 1,
+      "ev": 3,
       "deplasman": 0
     }
   },
@@ -137,10 +137,10 @@
     "durum": "Canli",
     "ev_sahibi": "1. FC Union Berlin",
     "deplasman": "RB Leipzig",
-    "skor_yazi": "0 - 1",
+    "skor_yazi": "1 - 4",
     "skor": {
-      "ev": 0,
-      "deplasman": 1
+      "ev": 1,
+      "deplasman": 4
     }
   },
   {
@@ -155,9 +155,9 @@
     "durum": "Canli",
     "ev_sahibi": "Bayer 04 Leverkusen",
     "deplasman": "SC Paderborn 07",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "4 - 0",
     "skor": {
-      "ev": 1,
+      "ev": 4,
       "deplasman": 0
     }
   },
@@ -209,10 +209,10 @@
     "durum": "Canli",
     "ev_sahibi": "SV 07 Elversberg",
     "deplasman": "SC Freiburg",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "0 - 1",
     "skor": {
       "ev": 0,
-      "deplasman": 0
+      "deplasman": 1
     }
   },
   {
@@ -227,9 +227,9 @@
     "durum": "Canli",
     "ev_sahibi": "Bolton Wanderers FC",
     "deplasman": "Portsmouth FC",
-    "skor_yazi": "0 - 1",
+    "skor_yazi": "1 - 1",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 1
     }
   },
@@ -263,9 +263,9 @@
     "durum": "Canli",
     "ev_sahibi": "Middlesbrough FC",
     "deplasman": "Bristol City FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -299,9 +299,9 @@
     "durum": "Canli",
     "ev_sahibi": "Stoke City FC",
     "deplasman": "Birmingham City FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -317,10 +317,10 @@
     "durum": "Canli",
     "ev_sahibi": "Swansea City AFC",
     "deplasman": "West Bromwich Albion FC",
-    "skor_yazi": "0 - 1",
+    "skor_yazi": "2 - 2",
     "skor": {
-      "ev": 0,
-      "deplasman": 1
+      "ev": 2,
+      "deplasman": 2
     }
   },
   {
@@ -335,10 +335,10 @@
     "durum": "Canli",
     "ev_sahibi": "West Ham United FC",
     "deplasman": "Preston North End FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "0 - 1",
     "skor": {
       "ev": 0,
-      "deplasman": 0
+      "deplasman": 1
     }
   },
   {
@@ -353,9 +353,9 @@
     "durum": "Canli",
     "ev_sahibi": "Wolverhampton Wanderers FC",
     "deplasman": "Charlton Athletic FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -371,9 +371,9 @@
     "durum": "Canli",
     "ev_sahibi": "AFC Bournemouth",
     "deplasman": "Nottingham Forest FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "2 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 2,
       "deplasman": 0
     }
   },
@@ -407,10 +407,10 @@
     "durum": "Canli",
     "ev_sahibi": "Chelsea FC",
     "deplasman": "Leeds United FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 1",
     "skor": {
-      "ev": 0,
-      "deplasman": 0
+      "ev": 1,
+      "deplasman": 1
     }
   },
   {
@@ -425,10 +425,10 @@
     "durum": "Canli",
     "ev_sahibi": "Coventry City FC",
     "deplasman": "Crystal Palace FC",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "2 - 2",
     "skor": {
-      "ev": 1,
-      "deplasman": 0
+      "ev": 2,
+      "deplasman": 2
     }
   },
   {
@@ -443,9 +443,9 @@
     "durum": "Canli",
     "ev_sahibi": "Tottenham Hotspur FC",
     "deplasman": "Ipswich Town FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -457,14 +457,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "18:15",
     "tarih_saat_utc": "2026-11-21T15:15:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Rayo Vallecano de Madrid",
     "deplasman": "Valencia CF",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 1
     }
   },
   {
@@ -475,14 +475,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "18:30",
     "tarih_saat_utc": "2026-11-21T15:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "NEC",
     "deplasman": "PSV",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 2",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 2
     }
   },
   {
