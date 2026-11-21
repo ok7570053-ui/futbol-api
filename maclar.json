@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "15:30",
     "tarih_saat_utc": "2026-11-21T12:30:00Z",
-    "durum_kod": "SCHEDULED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Millwall FC",
     "deplasman": "Queens Park Rangers FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 1
     }
   },
   {
@@ -25,14 +25,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "15:30",
     "tarih_saat_utc": "2026-11-21T12:30:00Z",
-    "durum_kod": "SCHEDULED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Norwich City FC",
     "deplasman": "Cardiff City FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "15:30",
     "tarih_saat_utc": "2026-11-21T12:30:00Z",
-    "durum_kod": "SCHEDULED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Southampton FC",
     "deplasman": "Derby County FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
@@ -61,14 +61,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "15:30",
     "tarih_saat_utc": "2026-11-21T12:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Manchester City FC",
     "deplasman": "Fulham FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 1
     }
   },
   {
@@ -79,14 +79,14 @@
     "tarih_tr": "2026-11-21",
     "saat_tr": "16:00",
     "tarih_saat_utc": "2026-11-21T13:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Deportivo Alavés",
     "deplasman": "RC Deportivo La Coruña",
-    "skor_yazi": " - ",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 1,
+      "deplasman": 0
     }
   },
   {
