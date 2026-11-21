@@ -1,4 +1,4 @@
-name: 30 Dakikada Bir Mac Guncelleme
+name: Maclari Guncelle
 
 on:
   schedule:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   guncelle:
     runs-on: ubuntu-latest
+
     steps:
       - name: Depoyu cek
         uses: actions/checkout@v4
@@ -20,23 +21,24 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Bagimliliklari yukle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
       - name: Maclari guncelle
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
-          THESPORTSDB_KEY: ${{ secrets.THESPORTSDB_KEY }}
-        run: |
-          python guncelle.py
-          if [ -f "puan_durumu.py" ]; then
-            python puan_durumu.py
-          fi
+        run: python guncelle.py
 
       - name: Degisiklikleri kaydet
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add maclar.json
-          if [ -f "standings.json" ]; then
-            git add standings.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: maclar.json guncellendi"
+            git push
+          else
+            echo "Degisiklik yok, commit atlandi."
           fi
-          git diff --staged --quiet || git commit -m "30 dakikalik hibrit fikstur guncellendi"
-          git push
