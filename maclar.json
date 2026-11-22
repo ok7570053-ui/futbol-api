@@ -79,13 +79,13 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:00",
     "tarih_saat_utc": "2026-11-22T13:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "FC Barcelona",
     "deplasman": "Villarreal CF",
-    "skor_yazi": "0 - 2",
+    "skor_yazi": "3 - 2",
     "skor": {
-      "ev": 0,
+      "ev": 3,
       "deplasman": 2
     }
   },
@@ -119,10 +119,10 @@
     "durum": "Canli",
     "ev_sahibi": "Sparta Rotterdam",
     "deplasman": "AZ",
-    "skor_yazi": "1 - 1",
+    "skor_yazi": "1 - 4",
     "skor": {
       "ev": 1,
-      "deplasman": 1
+      "deplasman": 4
     }
   },
   {
@@ -137,9 +137,9 @@
     "durum": "Canli",
     "ev_sahibi": "Paris FC",
     "deplasman": "Angers SCO",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -173,9 +173,9 @@
     "durum": "Canli",
     "ev_sahibi": "Bologna FC 1909",
     "deplasman": "Udinese Calcio",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -191,10 +191,10 @@
     "durum": "Canli",
     "ev_sahibi": "US Sassuolo Calcio",
     "deplasman": "Genoa CFC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "0 - 2",
     "skor": {
       "ev": 0,
-      "deplasman": 0
+      "deplasman": 2
     }
   },
   {
@@ -205,14 +205,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:30",
     "tarih_saat_utc": "2026-11-22T14:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "FC Augsburg",
     "deplasman": "1. FSV Mainz 05",
-    "skor_yazi": " - ",
+    "skor_yazi": "2 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 2,
+      "deplasman": 0
     }
   },
   {
