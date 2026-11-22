@@ -97,8 +97,8 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:30",
     "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "AFC Ajax",
     "deplasman": "ADO Den Haag",
     "skor_yazi": "3 - 0",
@@ -115,14 +115,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:30",
     "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Sparta Rotterdam",
     "deplasman": "AZ",
-    "skor_yazi": "1 - 4",
+    "skor_yazi": "1 - 5",
     "skor": {
       "ev": 1,
-      "deplasman": 4
+      "deplasman": 5
     }
   },
   {
@@ -133,13 +133,13 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Paris FC",
     "deplasman": "Angers SCO",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "4 - 0",
     "skor": {
-      "ev": 1,
+      "ev": 4,
       "deplasman": 0
     }
   },
@@ -151,13 +151,13 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Hull City AFC",
     "deplasman": "Brighton & Hove Albion FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "2 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 2,
       "deplasman": 0
     }
   },
@@ -169,14 +169,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Bologna FC 1909",
     "deplasman": "Udinese Calcio",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": "1 - 1",
     "skor": {
       "ev": 1,
-      "deplasman": 0
+      "deplasman": 1
     }
   },
   {
@@ -187,8 +187,8 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "US Sassuolo Calcio",
     "deplasman": "Genoa CFC",
     "skor_yazi": "0 - 2",
@@ -209,10 +209,10 @@
     "durum": "Canli",
     "ev_sahibi": "FC Augsburg",
     "deplasman": "1. FSV Mainz 05",
-    "skor_yazi": "2 - 0",
+    "skor_yazi": "3 - 1",
     "skor": {
-      "ev": 2,
-      "deplasman": 0
+      "ev": 3,
+      "deplasman": 1
     }
   },
   {
@@ -223,14 +223,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "18:15",
     "tarih_saat_utc": "2026-11-22T15:15:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Real Racing Club de Santander",
     "deplasman": "Real Sociedad de Fútbol",
-    "skor_yazi": " - ",
+    "skor_yazi": "2 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 2,
+      "deplasman": 1
     }
   },
   {
@@ -241,14 +241,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "18:45",
     "tarih_saat_utc": "2026-11-22T15:45:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Go Ahead Eagles",
     "deplasman": "Fortuna Sittard",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
