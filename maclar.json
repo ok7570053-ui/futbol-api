@@ -25,14 +25,14 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "01:30",
     "tarih_saat_utc": "2026-11-22T22:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "RB Bragantino",
     "deplasman": "CR Vasco da Gama",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
