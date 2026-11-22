@@ -1,416 +1,92 @@
 [
   {
-    "id": 555095,
+    "id": 555096,
     "kaynak": "football-data",
     "lig_kodu": "BSA",
     "lig": "Campeonato Brasileiro Série A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "03:00",
-    "tarih_saat_utc": "2026-11-22T00:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Chapecoense AF",
-    "deplasman": "Cruzeiro EC",
-    "skor_yazi": "1 - 2",
+    "tarih_tr": "2026-11-23",
+    "saat_tr": "00:30",
+    "tarih_saat_utc": "2026-11-22T21:30:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Fluminense FC",
+    "deplasman": "Mirassol FC",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 2
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 558828,
-    "kaynak": "football-data",
-    "lig_kodu": "DED",
-    "lig": "Eredivisie",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "14:15",
-    "tarih_saat_utc": "2026-11-22T11:15:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "FC Twente '65",
-    "deplasman": "Willem II Tilburg",
-    "skor_yazi": "2 - 1",
-    "skor": {
-      "ev": 2,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 558521,
-    "kaynak": "football-data",
-    "lig_kodu": "SA",
-    "lig": "Serie A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "14:30",
-    "tarih_saat_utc": "2026-11-22T11:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Juventus FC",
-    "deplasman": "Venezia FC",
-    "skor_yazi": "4 - 0",
-    "skor": {
-      "ev": 4,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 561947,
-    "kaynak": "football-data",
-    "lig_kodu": "ELC",
-    "lig": "Championship",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "15:00",
-    "tarih_saat_utc": "2026-11-22T12:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Burnley FC",
-    "deplasman": "Blackburn Rovers FC",
-    "skor_yazi": "2 - 2",
-    "skor": {
-      "ev": 2,
-      "deplasman": 2
-    }
-  },
-  {
-    "id": 564749,
-    "kaynak": "football-data",
-    "lig_kodu": "PD",
-    "lig": "Primera Division",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "16:00",
-    "tarih_saat_utc": "2026-11-22T13:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "FC Barcelona",
-    "deplasman": "Villarreal CF",
-    "skor_yazi": "3 - 2",
-    "skor": {
-      "ev": 3,
-      "deplasman": 2
-    }
-  },
-  {
-    "id": 558836,
-    "kaynak": "football-data",
-    "lig_kodu": "DED",
-    "lig": "Eredivisie",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "16:30",
-    "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "AFC Ajax",
-    "deplasman": "ADO Den Haag",
-    "skor_yazi": "3 - 0",
-    "skor": {
-      "ev": 3,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 558830,
-    "kaynak": "football-data",
-    "lig_kodu": "DED",
-    "lig": "Eredivisie",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "16:30",
-    "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Sparta Rotterdam",
-    "deplasman": "AZ",
-    "skor_yazi": "1 - 5",
-    "skor": {
-      "ev": 1,
-      "deplasman": 5
-    }
-  },
-  {
-    "id": 559625,
-    "kaynak": "football-data",
-    "lig_kodu": "FL1",
-    "lig": "Ligue 1",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "17:00",
-    "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Paris FC",
-    "deplasman": "Angers SCO",
-    "skor_yazi": "4 - 0",
-    "skor": {
-      "ev": 4,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 560646,
-    "kaynak": "football-data",
-    "lig_kodu": "PL",
-    "lig": "Premier League",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "17:00",
-    "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Hull City AFC",
-    "deplasman": "Brighton & Hove Albion FC",
-    "skor_yazi": "2 - 0",
-    "skor": {
-      "ev": 2,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 558522,
-    "kaynak": "football-data",
-    "lig_kodu": "SA",
-    "lig": "Serie A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "17:00",
-    "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Bologna FC 1909",
-    "deplasman": "Udinese Calcio",
-    "skor_yazi": "1 - 1",
-    "skor": {
-      "ev": 1,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 558524,
-    "kaynak": "football-data",
-    "lig_kodu": "SA",
-    "lig": "Serie A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "17:00",
-    "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "US Sassuolo Calcio",
-    "deplasman": "Genoa CFC",
-    "skor_yazi": "0 - 2",
-    "skor": {
-      "ev": 0,
-      "deplasman": 2
-    }
-  },
-  {
-    "id": 565864,
-    "kaynak": "football-data",
-    "lig_kodu": "BL1",
-    "lig": "Bundesliga",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "17:30",
-    "tarih_saat_utc": "2026-11-22T14:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "FC Augsburg",
-    "deplasman": "1. FSV Mainz 05",
-    "skor_yazi": "3 - 1",
-    "skor": {
-      "ev": 3,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 564750,
-    "kaynak": "football-data",
-    "lig_kodu": "PD",
-    "lig": "Primera Division",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "18:15",
-    "tarih_saat_utc": "2026-11-22T15:15:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Real Racing Club de Santander",
-    "deplasman": "Real Sociedad de Fútbol",
-    "skor_yazi": "3 - 2",
-    "skor": {
-      "ev": 3,
-      "deplasman": 2
-    }
-  },
-  {
-    "id": 558829,
-    "kaynak": "football-data",
-    "lig_kodu": "DED",
-    "lig": "Eredivisie",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "18:45",
-    "tarih_saat_utc": "2026-11-22T15:45:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Go Ahead Eagles",
-    "deplasman": "Fortuna Sittard",
-    "skor_yazi": "0 - 1",
-    "skor": {
-      "ev": 0,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 559626,
-    "kaynak": "football-data",
-    "lig_kodu": "FL1",
-    "lig": "Ligue 1",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "19:15",
-    "tarih_saat_utc": "2026-11-22T16:15:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "FC Lorient",
-    "deplasman": "Stade Rennais FC 1901",
-    "skor_yazi": "1 - 1",
-    "skor": {
-      "ev": 1,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 565863,
-    "kaynak": "football-data",
-    "lig_kodu": "BL1",
-    "lig": "Bundesliga",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "19:30",
-    "tarih_saat_utc": "2026-11-22T16:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "SV Werder Bremen",
-    "deplasman": "Hamburger SV",
-    "skor_yazi": "4 - 0",
-    "skor": {
-      "ev": 4,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 560645,
-    "kaynak": "football-data",
-    "lig_kodu": "PL",
-    "lig": "Premier League",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "19:30",
-    "tarih_saat_utc": "2026-11-22T16:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Liverpool FC",
-    "deplasman": "Manchester United FC",
-    "skor_yazi": "4 - 0",
-    "skor": {
-      "ev": 4,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 558523,
-    "kaynak": "football-data",
-    "lig_kodu": "SA",
-    "lig": "Serie A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "20:00",
-    "tarih_saat_utc": "2026-11-22T17:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "AC Milan",
-    "deplasman": "Frosinone Calcio",
-    "skor_yazi": "5 - 1",
-    "skor": {
-      "ev": 5,
-      "deplasman": 1
-    }
-  },
-  {
-    "id": 564752,
-    "kaynak": "football-data",
-    "lig_kodu": "PD",
-    "lig": "Primera Division",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "20:30",
-    "tarih_saat_utc": "2026-11-22T17:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "CA Osasuna",
-    "deplasman": "Málaga CF",
-    "skor_yazi": "1 - 0",
-    "skor": {
-      "ev": 1,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 555090,
+    "id": 555094,
     "kaynak": "football-data",
     "lig_kodu": "BSA",
     "lig": "Campeonato Brasileiro Série A",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "22:00",
-    "tarih_saat_utc": "2026-11-22T19:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "CA Paranaense",
-    "deplasman": "Clube do Remo",
-    "skor_yazi": "2 - 0",
+    "tarih_tr": "2026-11-23",
+    "saat_tr": "01:30",
+    "tarih_saat_utc": "2026-11-22T22:30:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "RB Bragantino",
+    "deplasman": "CR Vasco da Gama",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 559629,
-    "kaynak": "football-data",
-    "lig_kodu": "FL1",
-    "lig": "Ligue 1",
-    "tarih_tr": "2026-11-22",
-    "saat_tr": "22:45",
-    "tarih_saat_utc": "2026-11-22T19:45:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "Olympique de Marseille",
-    "deplasman": "Le Mans FC",
-    "skor_yazi": "0 - 0",
-    "skor": {
-      "ev": 0,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 558520,
+    "id": 558519,
     "kaynak": "football-data",
     "lig_kodu": "SA",
     "lig": "Serie A",
-    "tarih_tr": "2026-11-22",
+    "tarih_tr": "2026-11-23",
     "saat_tr": "22:45",
-    "tarih_saat_utc": "2026-11-22T19:45:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "Atalanta BC",
-    "deplasman": "FC Internazionale Milano",
-    "skor_yazi": "0 - 1",
+    "tarih_saat_utc": "2026-11-23T19:45:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "AC Monza",
+    "deplasman": "ACF Fiorentina",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 0,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 564753,
+    "id": 564757,
     "kaynak": "football-data",
     "lig_kodu": "PD",
     "lig": "Primera Division",
-    "tarih_tr": "2026-11-22",
+    "tarih_tr": "2026-11-23",
     "saat_tr": "23:00",
-    "tarih_saat_utc": "2026-11-22T20:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "Getafe CF",
-    "deplasman": "Club Atlético de Madrid",
-    "skor_yazi": "0 - 1",
+    "tarih_saat_utc": "2026-11-23T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Levante UD",
+    "deplasman": "Elche CF",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 0,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 560649,
+    "kaynak": "football-data",
+    "lig_kodu": "PL",
+    "lig": "Premier League",
+    "tarih_tr": "2026-11-23",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-23T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Brentford FC",
+    "deplasman": "Everton FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
     }
   }
 ]
