@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "03:00",
     "tarih_saat_utc": "2026-11-22T00:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Chapecoense AF",
     "deplasman": "Cruzeiro EC",
-    "skor_yazi": "1 - 2",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": 1,
-      "deplasman": 2
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
@@ -25,14 +25,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "14:15",
     "tarih_saat_utc": "2026-11-22T11:15:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "FC Twente '65",
     "deplasman": "Willem II Tilburg",
-    "skor_yazi": "2 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "14:30",
     "tarih_saat_utc": "2026-11-22T11:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Juventus FC",
     "deplasman": "Venezia FC",
-    "skor_yazi": "4 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 4,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -61,14 +61,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "15:00",
     "tarih_saat_utc": "2026-11-22T12:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Burnley FC",
     "deplasman": "Blackburn Rovers FC",
-    "skor_yazi": "2 - 2",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 2
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -79,14 +79,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:00",
     "tarih_saat_utc": "2026-11-22T13:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "FC Barcelona",
     "deplasman": "Villarreal CF",
-    "skor_yazi": "3 - 2",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 3,
-      "deplasman": 2
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -97,14 +97,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:30",
     "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "AFC Ajax",
     "deplasman": "ADO Den Haag",
-    "skor_yazi": "3 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 3,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -115,14 +115,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:30",
     "tarih_saat_utc": "2026-11-22T13:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Sparta Rotterdam",
     "deplasman": "AZ",
-    "skor_yazi": "1 - 5",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 5
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -133,14 +133,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Paris FC",
     "deplasman": "Angers SCO",
-    "skor_yazi": "4 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 4,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -151,14 +151,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Hull City AFC",
     "deplasman": "Brighton & Hove Albion FC",
-    "skor_yazi": "2 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -169,14 +169,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Bologna FC 1909",
     "deplasman": "Udinese Calcio",
-    "skor_yazi": "1 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -187,14 +187,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:00",
     "tarih_saat_utc": "2026-11-22T14:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "US Sassuolo Calcio",
     "deplasman": "Genoa CFC",
-    "skor_yazi": "0 - 2",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 0,
-      "deplasman": 2
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -205,14 +205,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "17:30",
     "tarih_saat_utc": "2026-11-22T14:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "FC Augsburg",
     "deplasman": "1. FSV Mainz 05",
-    "skor_yazi": "3 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 3,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -223,14 +223,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "18:15",
     "tarih_saat_utc": "2026-11-22T15:15:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Real Racing Club de Santander",
     "deplasman": "Real Sociedad de Fútbol",
-    "skor_yazi": "3 - 2",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 3,
-      "deplasman": 2
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -241,14 +241,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "18:45",
     "tarih_saat_utc": "2026-11-22T15:45:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Go Ahead Eagles",
     "deplasman": "Fortuna Sittard",
-    "skor_yazi": "0 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 0,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -259,14 +259,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "19:15",
     "tarih_saat_utc": "2026-11-22T16:15:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "FC Lorient",
     "deplasman": "Stade Rennais FC 1901",
-    "skor_yazi": "1 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -277,14 +277,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "19:30",
     "tarih_saat_utc": "2026-11-22T16:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "SV Werder Bremen",
     "deplasman": "Hamburger SV",
-    "skor_yazi": "2 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -295,14 +295,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "19:30",
     "tarih_saat_utc": "2026-11-22T16:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "Liverpool FC",
     "deplasman": "Manchester United FC",
-    "skor_yazi": "3 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 3,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -313,14 +313,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "20:00",
     "tarih_saat_utc": "2026-11-22T17:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "AC Milan",
     "deplasman": "Frosinone Calcio",
-    "skor_yazi": "2 - 1",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 1
+      "ev": null,
+      "deplasman": null
     }
   },
   {
@@ -331,14 +331,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "20:30",
     "tarih_saat_utc": "2026-11-22T17:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
     "ev_sahibi": "CA Osasuna",
     "deplasman": "Málaga CF",
-    "skor_yazi": "1 - 0",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
