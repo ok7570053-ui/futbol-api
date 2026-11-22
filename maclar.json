@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "03:00",
     "tarih_saat_utc": "2026-11-22T00:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Chapecoense AF",
     "deplasman": "Cruzeiro EC",
-    "skor_yazi": "1 - 2",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": 1,
-      "deplasman": 2
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
