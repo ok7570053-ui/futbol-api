@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "00:30",
     "tarih_saat_utc": "2026-11-22T21:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Fluminense FC",
     "deplasman": "Mirassol FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
