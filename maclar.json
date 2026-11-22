@@ -25,14 +25,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "14:15",
     "tarih_saat_utc": "2026-11-22T11:15:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "FC Twente '65",
     "deplasman": "Willem II Tilburg",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "2 - 1",
     "skor": {
-      "ev": 0,
-      "deplasman": 0
+      "ev": 2,
+      "deplasman": 1
     }
   },
   {
@@ -43,13 +43,13 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "14:30",
     "tarih_saat_utc": "2026-11-22T11:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Juventus FC",
     "deplasman": "Venezia FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "4 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 4,
       "deplasman": 0
     }
   },
@@ -65,10 +65,10 @@
     "durum": "Canli",
     "ev_sahibi": "Burnley FC",
     "deplasman": "Blackburn Rovers FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "2 - 1",
     "skor": {
-      "ev": 0,
-      "deplasman": 0
+      "ev": 2,
+      "deplasman": 1
     }
   },
   {
@@ -79,14 +79,14 @@
     "tarih_tr": "2026-11-22",
     "saat_tr": "16:00",
     "tarih_saat_utc": "2026-11-22T13:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "FC Barcelona",
     "deplasman": "Villarreal CF",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 2",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 2
     }
   },
   {
