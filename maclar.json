@@ -7,13 +7,13 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "00:30",
     "tarih_saat_utc": "2026-11-22T21:30:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Fluminense FC",
     "deplasman": "Mirassol FC",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -29,9 +29,9 @@
     "durum": "Canli",
     "ev_sahibi": "RB Bragantino",
     "deplasman": "CR Vasco da Gama",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
