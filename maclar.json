@@ -47,9 +47,9 @@
     "durum": "Canli",
     "ev_sahibi": "AC Monza",
     "deplasman": "ACF Fiorentina",
-    "skor_yazi": "0 - 0",
+    "skor_yazi": "1 - 0",
     "skor": {
-      "ev": 0,
+      "ev": 1,
       "deplasman": 0
     }
   },
@@ -61,14 +61,14 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "23:00",
     "tarih_saat_utc": "2026-11-23T20:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Levante UD",
     "deplasman": "Elche CF",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
@@ -79,14 +79,14 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "23:00",
     "tarih_saat_utc": "2026-11-23T20:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Brentford FC",
     "deplasman": "Everton FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "2 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 2,
+      "deplasman": 0
     }
   }
 ]
