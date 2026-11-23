@@ -1,92 +1,362 @@
 [
   {
-    "id": 555096,
+    "id": 555097,
     "kaynak": "football-data",
     "lig_kodu": "BSA",
     "lig": "Campeonato Brasileiro Série A",
-    "tarih_tr": "2026-11-23",
-    "saat_tr": "00:30",
-    "tarih_saat_utc": "2026-11-22T21:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "Fluminense FC",
-    "deplasman": "Mirassol FC",
-    "skor_yazi": "1 - 0",
-    "skor": {
-      "ev": 1,
-      "deplasman": 0
-    }
-  },
-  {
-    "id": 555094,
-    "kaynak": "football-data",
-    "lig_kodu": "BSA",
-    "lig": "Campeonato Brasileiro Série A",
-    "tarih_tr": "2026-11-23",
+    "tarih_tr": "2026-11-24",
     "saat_tr": "01:30",
-    "tarih_saat_utc": "2026-11-22T22:30:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
-    "ev_sahibi": "RB Bragantino",
-    "deplasman": "CR Vasco da Gama",
-    "skor_yazi": "1 - 0",
+    "tarih_saat_utc": "2026-11-23T22:30:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "SC Internacional",
+    "deplasman": "EC Vitória",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 558519,
+    "id": 555093,
     "kaynak": "football-data",
-    "lig_kodu": "SA",
-    "lig": "Serie A",
-    "tarih_tr": "2026-11-23",
+    "lig_kodu": "BSA",
+    "lig": "Campeonato Brasileiro Série A",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "02:00",
+    "tarih_saat_utc": "2026-11-23T23:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Botafogo FR",
+    "deplasman": "São Paulo FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 555099,
+    "kaynak": "football-data",
+    "lig_kodu": "BSA",
+    "lig": "Campeonato Brasileiro Série A",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "03:00",
+    "tarih_saat_utc": "2026-11-24T00:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Santos FC",
+    "deplasman": "Grêmio FBPA",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575396,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "20:45",
+    "tarih_saat_utc": "2026-11-24T17:45:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "FK Bodø/Glimt",
+    "deplasman": "LASK Linz",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575395,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "20:45",
+    "tarih_saat_utc": "2026-11-24T17:45:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Galatasaray SK",
+    "deplasman": "Aston Villa FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561959,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
     "saat_tr": "22:45",
-    "tarih_saat_utc": "2026-11-23T19:45:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "AC Monza",
-    "deplasman": "ACF Fiorentina",
-    "skor_yazi": "1 - 0",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Bristol City FC",
+    "deplasman": "Wrexham AFC",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 1,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 564757,
+    "id": 561953,
     "kaynak": "football-data",
-    "lig_kodu": "PD",
-    "lig": "Primera Division",
-    "tarih_tr": "2026-11-23",
-    "saat_tr": "23:00",
-    "tarih_saat_utc": "2026-11-23T20:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "Levante UD",
-    "deplasman": "Elche CF",
-    "skor_yazi": "0 - 0",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Cardiff City FC",
+    "deplasman": "Preston North End FC",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 0,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
     }
   },
   {
-    "id": 560649,
+    "id": 561958,
     "kaynak": "football-data",
-    "lig_kodu": "PL",
-    "lig": "Premier League",
-    "tarih_tr": "2026-11-23",
-    "saat_tr": "23:00",
-    "tarih_saat_utc": "2026-11-23T20:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
-    "ev_sahibi": "Brentford FC",
-    "deplasman": "Everton FC",
-    "skor_yazi": "2 - 0",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Charlton Athletic FC",
+    "deplasman": "Lincoln City FC",
+    "skor_yazi": " - ",
     "skor": {
-      "ev": 2,
-      "deplasman": 0
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561954,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Middlesbrough FC",
+    "deplasman": "Swansea City AFC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561960,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Norwich City FC",
+    "deplasman": "Queens Park Rangers FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561955,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Portsmouth FC",
+    "deplasman": "West Ham United FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561956,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "22:45",
+    "tarih_saat_utc": "2026-11-24T19:45:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Sheffield United FC",
+    "deplasman": "Southampton FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575399,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Arsenal FC",
+    "deplasman": "Borussia Dortmund",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575403,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Como 1907",
+    "deplasman": "PAE AEK",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575400,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Feyenoord Rotterdam",
+    "deplasman": "FC Porto",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575398,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Manchester City FC",
+    "deplasman": "SSC Napoli",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575402,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "RB Leipzig",
+    "deplasman": "Racing Club de Lens",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575397,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Real Madrid CF",
+    "deplasman": "PSV",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 575401,
+    "kaynak": "football-data",
+    "lig_kodu": "CL",
+    "lig": "UEFA Champions League",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "TIMED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "ŠK Slovan Bratislava",
+    "deplasman": "Real Betis Balompié",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
+    }
+  },
+  {
+    "id": 561957,
+    "kaynak": "football-data",
+    "lig_kodu": "ELC",
+    "lig": "Championship",
+    "tarih_tr": "2026-11-24",
+    "saat_tr": "23:00",
+    "tarih_saat_utc": "2026-11-24T20:00:00Z",
+    "durum_kod": "SCHEDULED",
+    "durum": "Baslamadi",
+    "ev_sahibi": "Wolverhampton Wanderers FC",
+    "deplasman": "Derby County FC",
+    "skor_yazi": " - ",
+    "skor": {
+      "ev": null,
+      "deplasman": null
     }
   }
 ]
