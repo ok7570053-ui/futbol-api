@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-23",
     "saat_tr": "22:45",
     "tarih_saat_utc": "2026-11-23T19:45:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "AC Monza",
     "deplasman": "ACF Fiorentina",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
