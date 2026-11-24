@@ -7,13 +7,13 @@
     "tarih_tr": "2026-11-25",
     "saat_tr": "00:00",
     "tarih_saat_utc": "2026-11-24T21:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Chapecoense AF",
     "deplasman": "SE Palmeiras",
-    "skor_yazi": "2 - 0",
+    "skor_yazi": "3 - 0",
     "skor": {
-      "ev": 2,
+      "ev": 3,
       "deplasman": 0
     }
   },
