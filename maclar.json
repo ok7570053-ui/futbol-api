@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "03:00",
     "tarih_saat_utc": "2026-11-24T00:00:00Z",
-    "durum_kod": "FINISHED",
-    "durum": "Bitti",
+    "durum_kod": "PAUSED",
+    "durum": "Devre Arasi",
     "ev_sahibi": "Santos FC",
     "deplasman": "Grêmio FBPA",
-    "skor_yazi": "0 - 2",
+    "skor_yazi": "0 - 1",
     "skor": {
       "ev": 0,
-      "deplasman": 2
+      "deplasman": 1
     }
   },
   {
