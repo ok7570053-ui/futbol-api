@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "03:00",
     "tarih_saat_utc": "2026-11-24T00:00:00Z",
-    "durum_kod": "PAUSED",
-    "durum": "Devre Arasi",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "Santos FC",
     "deplasman": "Grêmio FBPA",
-    "skor_yazi": "0 - 1",
+    "skor_yazi": "0 - 2",
     "skor": {
       "ev": 0,
-      "deplasman": 1
+      "deplasman": 2
     }
   },
   {
@@ -61,14 +61,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "20:45",
     "tarih_saat_utc": "2026-11-24T17:45:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "FK Bodø/Glimt",
     "deplasman": "LASK Linz",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
@@ -79,14 +79,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "20:45",
     "tarih_saat_utc": "2026-11-24T17:45:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Galatasaray SK",
     "deplasman": "Aston Villa FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 0",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 0
     }
   },
   {
