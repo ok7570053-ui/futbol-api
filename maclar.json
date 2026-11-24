@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "01:30",
     "tarih_saat_utc": "2026-11-23T22:30:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "SC Internacional",
     "deplasman": "EC Vitória",
-    "skor_yazi": " - ",
+    "skor_yazi": "2 - 5",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 2,
+      "deplasman": 5
     }
   },
   {
@@ -25,14 +25,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "02:00",
     "tarih_saat_utc": "2026-11-23T23:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Botafogo FR",
     "deplasman": "São Paulo FC",
-    "skor_yazi": " - ",
+    "skor_yazi": "1 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 1,
+      "deplasman": 1
     }
   },
   {
@@ -43,14 +43,14 @@
     "tarih_tr": "2026-11-24",
     "saat_tr": "03:00",
     "tarih_saat_utc": "2026-11-24T00:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Santos FC",
     "deplasman": "Grêmio FBPA",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 1
     }
   },
   {
