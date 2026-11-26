@@ -7,14 +7,14 @@
     "tarih_tr": "2026-11-26",
     "saat_tr": "02:00",
     "tarih_saat_utc": "2026-11-25T23:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "CA Mineiro",
     "deplasman": "SC Corinthians Paulista",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "skor": {
-      "ev": null,
-      "deplasman": null
+      "ev": 0,
+      "deplasman": 1
     }
   }
 ]
