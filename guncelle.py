@@ -40,14 +40,30 @@ def get_tr_window():
     start_tr = now_tr.replace(hour=0, minute=0, second=0, microsecond=0)
     end_tr = start_tr + timedelta(days=1) - timedelta(seconds=1)
 
-    # UTC sinirinda kalan gece/sabah maclarini kacirmamak icin 1 gunluk pencere
-    date_from = (start_tr - timedelta(days=1)).astimezone(ZoneInfo("UTC")).strftime("%Y-%m-%d")
+    # UTC sinirinda kalan gece/sabah maclarini kacirmamak icin genis pencere
+    date_from = (start_tr - timedelta(days=2)).astimezone(ZoneInfo("UTC")).strftime("%Y-%m-%d")
     date_to = (end_tr + timedelta(days=1)).astimezone(ZoneInfo("UTC")).strftime("%Y-%m-%d")
+
     target_date_str = start_tr.strftime("%Y-%m-%d")
-    return target_date_str, date_from, date_to
+    prev_date_str = (start_tr - timedelta(days=1)).strftime("%Y-%m-%d")
+    return target_date_str, prev_date_str, date_from, date_to
 
 
-def format_match(m, target_date_str):
+def should_include_match(dt_tr, target_date_str, prev_date_str):
+    match_date_str = dt_tr.strftime("%Y-%m-%d")
+
+    # Bugunun (TR) tum maclarini dahil et
+    if match_date_str == target_date_str:
+        return True
+
+    # Dun aksam 21:00 ve sonrasinda baslayan gece maclarini (00:00 gecildiginde de) dahil et
+    if match_date_str == prev_date_str and dt_tr.hour >= 21:
+        return True
+
+    return False
+
+
+def format_match(m, target_date_str, prev_date_str):
     utc_str = m.get("utcDate")
     if not utc_str:
         return None
@@ -58,10 +74,10 @@ def format_match(m, target_date_str):
         return None
 
     dt_tr = dt_utc.astimezone(TR_TZ)
-    match_date_tr = dt_tr.strftime("%Y-%m-%d")
-    if match_date_tr != target_date_str:
+    if not should_include_match(dt_tr, target_date_str, prev_date_str):
         return None
 
+    match_date_tr = dt_tr.strftime("%Y-%m-%d")
     comp = m.get("competition", {}) or {}
     home = m.get("homeTeam", {}) or {}
     away = m.get("awayTeam", {}) or {}
@@ -97,7 +113,7 @@ def format_match(m, target_date_str):
     }
 
 
-def fetch_todays_matches(target_date_str, date_from, date_to):
+def fetch_matches(target_date_str, prev_date_str, date_from, date_to):
     if not FD_API_KEY:
         print("UYARI: FOOTBALL_DATA_KEY ortam degiskeni bulunamadi.")
         return []
@@ -126,11 +142,11 @@ def fetch_todays_matches(target_date_str, date_from, date_to):
 
     matches = []
     for raw_m in data.get("matches", []):
-        item = format_match(raw_m, target_date_str)
+        item = format_match(raw_m, target_date_str, prev_date_str)
         if item:
             matches.append(item)
 
-    matches.sort(key=lambda x: (x["saat_tr"], x["lig_kodu"] or "", x["ev_sahibi"] or ""))
+    matches.sort(key=lambda x: (x["tarih_tr"], x["saat_tr"], x["lig_kodu"] or "", x["ev_sahibi"] or ""))
     return matches
 
 
@@ -157,16 +173,16 @@ def save_matches(filepath, matches):
 def print_match_summary(matches):
     for m in matches:
         print(
-            f"[{m['saat_tr']}] ({m['lig_kodu']}) {m['ev_sahibi']} vs {m['deplasman']} "
+            f"[{m['tarih_tr']} {m['saat_tr']}] ({m['lig_kodu']}) {m['ev_sahibi']} vs {m['deplasman']} "
             f"| Skor: {m['skor_yazi']} | Durum: {m['durum']}"
         )
 
 
 def main():
-    target_date_str, date_from, date_to = get_tr_window()
-    print(f"Football-Data cekimi basladi | Gun (TR): {target_date_str}")
+    target_date_str, prev_date_str, date_from, date_to = get_tr_window()
+    print(f"Football-Data cekimi basladi | Bugun (TR): {target_date_str} | Gece Penceresi: {prev_date_str} (21:00+)")
 
-    result = fetch_todays_matches(target_date_str, date_from, date_to)
+    result = fetch_matches(target_date_str, prev_date_str, date_from, date_to)
 
     # API hatasi olustuysa mevcut maclar.json kaydini koru
     if result is None:
@@ -174,7 +190,7 @@ def main():
         print(f"API hatasi nedeniyle mevcut {OUTPUT_FILE} korundu ({len(existing)} mac).")
         return
 
-    print(f"Bugun (TR) icin {len(result)} mac bulundu.")
+    print(f"Pencere icin toplam {len(result)} mac bulundu.")
     if result:
         print_match_summary(result)
         save_matches(OUTPUT_FILE, result)
@@ -182,10 +198,10 @@ def main():
     else:
         existing = load_existing_matches(OUTPUT_FILE)
         if existing:
-            print(f"Bugun yeni mac 0 geldi; mevcut {OUTPUT_FILE} korundu ({len(existing)} mac).")
+            print(f"Yeni mac 0 geldi; mevcut {OUTPUT_FILE} korundu ({len(existing)} mac).")
         else:
             save_matches(OUTPUT_FILE, [])
-            print(f"Bugun mac yok; {OUTPUT_FILE} bos liste [] olarak kaydedildi.")
+            print(f"Mac yok; {OUTPUT_FILE} bos liste [] olarak kaydedildi.")
 
 
 if __name__ == "__main__":
