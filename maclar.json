@@ -199,18 +199,18 @@
     "tarih_tr": "2026-11-28",
     "saat_tr": "02:00",
     "tarih_saat_utc": "2026-11-27T23:00:00Z",
-    "durum_kod": "TIMED",
-    "durum": "Baslamadi",
+    "durum_kod": "IN_PLAY",
+    "durum": "Canli",
     "ev_sahibi": "Fluminense FC",
     "deplasman": "Cruzeiro EC",
     "ev_logo": "https://crests.football-data.org/1765.png",
     "dep_logo": "https://crests.football-data.org/1771.png",
     "hakem": "Matheus Delgado Candançan",
-    "skor_yazi": " - ",
+    "skor_yazi": "0 - 1",
     "iy_skor_yazi": " - ",
     "skor": {
-      "ev": null,
-      "deplasman": null,
+      "ev": 0,
+      "deplasman": 1,
       "iy_ev": null,
       "iy_deplasman": null
     }
