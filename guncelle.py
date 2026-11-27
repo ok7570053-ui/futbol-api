@@ -63,6 +63,16 @@ def should_include_match(dt_tr, target_date_str, prev_date_str):
     return False
 
 
+def extract_referee(m):
+    referees = m.get("referees")
+    if not isinstance(referees, list) or not referees:
+        return None
+    for ref in referees:
+        if isinstance(ref, dict) and ref.get("name"):
+            return ref.get("name")
+    return None
+
+
 def format_match(m, target_date_str, prev_date_str):
     utc_str = m.get("utcDate")
     if not utc_str:
@@ -83,15 +93,23 @@ def format_match(m, target_date_str, prev_date_str):
     away = m.get("awayTeam", {}) or {}
     score = m.get("score", {}) or {}
     full_time = score.get("fullTime", {}) or {}
+    half_time = score.get("halfTime", {}) or {}
 
     ev_skor = full_time.get("home")
     dep_skor = full_time.get("away")
+    iy_ev_skor = half_time.get("home")
+    iy_dep_skor = half_time.get("away")
     status_raw = m.get("status", "")
 
     if ev_skor is not None and dep_skor is not None:
         skor_yazi = f"{ev_skor} - {dep_skor}"
     else:
         skor_yazi = " - "
+
+    if iy_ev_skor is not None and iy_dep_skor is not None:
+        iy_skor_yazi = f"{iy_ev_skor} - {iy_dep_skor}"
+    else:
+        iy_skor_yazi = " - "
 
     return {
         "id": m.get("id"),
@@ -105,10 +123,16 @@ def format_match(m, target_date_str, prev_date_str):
         "durum": STATUS_MAP.get(status_raw, status_raw),
         "ev_sahibi": home.get("name"),
         "deplasman": away.get("name"),
+        "ev_logo": home.get("crest"),
+        "dep_logo": away.get("crest"),
+        "hakem": extract_referee(m),
         "skor_yazi": skor_yazi,
+        "iy_skor_yazi": iy_skor_yazi,
         "skor": {
             "ev": ev_skor,
             "deplasman": dep_skor,
+            "iy_ev": iy_ev_skor,
+            "iy_deplasman": iy_dep_skor,
         },
     }
 
@@ -174,7 +198,7 @@ def print_match_summary(matches):
     for m in matches:
         print(
             f"[{m['tarih_tr']} {m['saat_tr']}] ({m['lig_kodu']}) {m['ev_sahibi']} vs {m['deplasman']} "
-            f"| Skor: {m['skor_yazi']} | Durum: {m['durum']}"
+            f"| Skor: {m['skor_yazi']} (IY: {m['iy_skor_yazi']}) | Hakem: {m['hakem'] or '-'} | Durum: {m['durum']}"
         )
 
 
