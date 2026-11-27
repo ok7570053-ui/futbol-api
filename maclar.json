@@ -7,13 +7,13 @@
     "tarih_tr": "2026-11-27",
     "saat_tr": "02:00",
     "tarih_saat_utc": "2026-11-26T23:00:00Z",
-    "durum_kod": "IN_PLAY",
-    "durum": "Canli",
+    "durum_kod": "FINISHED",
+    "durum": "Bitti",
     "ev_sahibi": "São Paulo FC",
     "deplasman": "Clube do Remo",
-    "skor_yazi": "1 - 1",
+    "skor_yazi": "3 - 1",
     "skor": {
-      "ev": 1,
+      "ev": 3,
       "deplasman": 1
     }
   },
