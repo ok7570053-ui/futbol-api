@@ -11,10 +11,16 @@
     "durum": "Bitti",
     "ev_sahibi": "São Paulo FC",
     "deplasman": "Clube do Remo",
+    "ev_logo": "https://crests.football-data.org/1776.png",
+    "dep_logo": "https://crests.football-data.org/4287.png",
+    "hakem": "Bruno de Araújo",
     "skor_yazi": "3 - 1",
+    "iy_skor_yazi": "1 - 0",
     "skor": {
       "ev": 3,
-      "deplasman": 1
+      "deplasman": 1,
+      "iy_ev": 1,
+      "iy_deplasman": 0
     }
   },
   {
@@ -29,10 +35,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "FC Groningen",
     "deplasman": "Willem II Tilburg",
+    "ev_logo": "https://crests.football-data.org/677.png",
+    "dep_logo": "https://crests.football-data.org/672.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -47,10 +59,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "SV Werder Bremen",
     "deplasman": "Borussia Mönchengladbach",
+    "ev_logo": "https://crests.football-data.org/12.png",
+    "dep_logo": "https://crests.football-data.org/18.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -65,10 +83,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "Stade Brestois 29",
     "deplasman": "Paris FC",
+    "ev_logo": "https://crests.football-data.org/512.png",
+    "dep_logo": "https://crests.football-data.org/1045.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -83,10 +107,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "Venezia FC",
     "deplasman": "Bologna FC 1909",
+    "ev_logo": "https://crests.football-data.org/454.png",
+    "dep_logo": "https://crests.football-data.org/103.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -101,10 +131,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "Southampton FC",
     "deplasman": "Middlesbrough FC",
+    "ev_logo": "https://crests.football-data.org/340.png",
+    "dep_logo": "https://crests.football-data.org/343.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -119,10 +155,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "Levante UD",
     "deplasman": "Real Racing Club de Santander",
+    "ev_logo": "https://crests.football-data.org/88.png",
+    "dep_logo": "https://crests.football-data.org/5335.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -137,10 +179,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "Nottingham Forest FC",
     "deplasman": "Chelsea FC",
+    "ev_logo": "https://crests.football-data.org/351.png",
+    "dep_logo": "https://crests.football-data.org/61.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   },
   {
@@ -155,10 +203,16 @@
     "durum": "Baslamadi",
     "ev_sahibi": "CS Marítimo",
     "deplasman": "CD Nacional",
+    "ev_logo": "https://crests.football-data.org/5575.png",
+    "dep_logo": "https://crests.football-data.org/5529.png",
+    "hakem": null,
     "skor_yazi": " - ",
+    "iy_skor_yazi": " - ",
     "skor": {
       "ev": null,
-      "deplasman": null
+      "deplasman": null,
+      "iy_ev": null,
+      "iy_deplasman": null
     }
   }
 ]
